@@ -11,9 +11,9 @@ title                    : "Minimize Regret"
 title_separator          : "-"
 name                     : "Tim Radtke"
 description              : "A blog about what I've learned recently, mostly data related."
-url                      : "https://timradtke.github.io"
-baseurl                  : "/"
-repository               : "timradtke/timradtke.github.io"
+url                      : https://timradtke.github.io
+baseurl                  : /
+repository               : timradtke/timradtke.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
